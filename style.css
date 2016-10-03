@@ -1,0 +1,23 @@
+
+body {
+    background-image: url(http://www.planwallpaper.com/static/images/ZhGEqAP.jpg)
+    /* bakrunden */ 
+    }
+/* färg på h1 taggar */
+h1 { color: aliceblue
+
+}
+/* färg på paragraferna */
+p{
+    color: aliceblue
+}
+/* Padding från vänster på paragraferna */
+p{
+    padding-left: 30px
+    
+}
+/* Avstånd från h1 taggarna (titlarna) till paragrafera */
+p{
+    margin: 100px;
+    
+}
